@@ -1,0 +1,29 @@
+<div class="row header">
+<div class="size2">
+
+
+<h1 class="row head">
+<img src="images/download.png" style="width:260px;height:100px;background:black;">
+
+</div>
+<!--div class=" row size1">
+<a href="https://www.facebook.com/"><!--img  src="images/fbc.png" style="width:40px;height:40px;"--></a>
+
+<!--img src="images/gram.jpg" style="width:40px;height:40px;"-->
+<!--img src="images/snap.png" style="width:40px;height:40px;"-->
+</div-->
+<div class= "size1 toll">
+<h2 class="toll"> call us on <br>
+18000-80000
+</h2>
+</div>
+</div>
+<div>
+<!--video style="position:absolute;left:550px;right:200px;top:150px;width:640px;height:360px;border-style:solid;border-width:10px;border-color:grey;border-radius:30px;}
+"controls
+ autoplay>
+<source  src="https://fast.wistia.net/embed/iframe/291hvlmovr">
+</video-->
+<iframe style="position:absolute;left:750px;right:200px;top:150px;" allowtransparency="true" title="Wistia video player" allowFullscreen frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" src="https://fast.wistia.net/embed/iframe/291hvlmovr" width="400" height="225">
+</iframe>
+</div>
